@@ -1,0 +1,14 @@
+
+<resources>
+    <string name="simple_login_app">Home Automation</string>
+    <string name="hint_username">Username</string>
+    <string name="hint_password">Password</string>
+    <string name="btn_login">Login</string>
+    <string name="btn_signup">Sign Up</string>
+    <string name="label_social_login">Social Login</string>
+    <string name="password">Password</string>
+    <string name="forgot_password">Forgot Password?</string>
+    <string name="sign_up">Sign up</string>
+    <string name="email">Email</string>
+</resources>
+

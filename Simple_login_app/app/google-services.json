@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "368907469276",
+    "project_id": "my-login-application-db7ee",
+    "storage_bucket": "my-login-application-db7ee.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:368907469276:android:a5c59d6c5587d6ba53cf19",
+        "android_client_info": {
+          "package_name": "com.example.simple_login_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCwIxNbnfQuDQj87dT6qNw8_YtOzWFKpAU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
